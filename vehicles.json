@@ -1,0 +1,34 @@
+{
+  "vehicles":[
+    {
+      "licensePlate":"BGP 922",
+      "type":"Car",
+      "displacement":1600,
+      "dateOfEntry":"04-14-2019 09:00"
+    },
+    {
+      "licensePlate":"AHJ 567",
+      "type":"Car",
+      "displacement":1800,
+      "dateOfEntry":"04-14-2019 11:00"
+    },
+    {
+      "licensePlate":"RFG 37E",
+      "type":"MotorCycle",
+      "displacement":180,
+      "dateOfEntry":"04-15-2019 06:00"
+    },
+    {
+      "licensePlate":"YTR 89A",
+      "type":"Car",
+      "displacement":700,
+      "dateOfEntry":"04-15-2019 10:00"
+    },
+    {
+      "licensePlate":"VBM 677",
+      "type":"Car",
+      "displacement":2015,
+      "dateOfEntry":"04-16-2019 14:00"
+    }
+  ]
+}
